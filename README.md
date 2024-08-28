@@ -6,3 +6,7 @@ from here you can get the google form qize made from the past question papers of
 And please let me know if there are any problems in the answers of these papers.
 
 **It includes all questions, answers and answer explanations**
+
+# OOC
+**Module code - IT1050 (Object Oriented Concepts)**
+Pastpaper 01
