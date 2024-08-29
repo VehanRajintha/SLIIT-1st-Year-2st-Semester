@@ -18,6 +18,8 @@ And please let me know if there are any problems in the answers of these papers.
 
 **It includes all questions, answers and answer explanations**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F71111&width=435&lines=All+papaers+here+in+are+;copyrighted++by+SLIIT)](https://git.io/typing-svg)
+
 # OOC
 **MID EXAM**
 **Module code - IT1050 (Object Oriented Concepts)**
