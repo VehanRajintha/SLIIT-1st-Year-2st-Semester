@@ -22,6 +22,7 @@ And please let me know if there are any problems in the answers of these papers.
 
 # OOC
 **MID EXAM**
+
 **Module code - IT1050 (Object Oriented Concepts)**
 
 Pastpaper 01
@@ -58,6 +59,7 @@ Pastpaper 02
 
 # EAP
 **MID EXAM**
+
 **Module code - IT1080 (English for Academic Purposes)**
 
 Pastpaper 01
@@ -91,6 +93,7 @@ Pastpaper 02
 
 # ISDM
 **MID EXAM**
+
 **Module code - IT1090 (Information Systems and Data Modelling)**
 
 Pastpaper 01
@@ -125,6 +128,7 @@ Pastpaper 02
 
 # EM
 **MID EXAM**
+
 **Module code - IE1010 (Engineering Mathematics)**
 
 Pastpaper 01
@@ -158,6 +162,7 @@ Pastpaper 02
 
 # NF
 **MID EXAM**
+
 **Module code - IE1020 (Network Fundamentals)**
 
 Pastpaper 01
