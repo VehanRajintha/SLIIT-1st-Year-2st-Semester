@@ -1,6 +1,17 @@
 
 # Hello_Sliit_Students,
 
+
+ ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVehanRajintha%2FMy_Modules_SLIIT&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+
+
+![forks](https://img.shields.io/github/forks/VehanRajintha/My_Modules_SLIIT?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/VehanRajintha/My_Modules_SLIIT?style=social)
+
+![size](https://img.shields.io/github/repo-size/VehanRajintha/My_Modules_SLIIT?color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/VehanRajintha/My_Modules_SLIIT?color=purple&label=License&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=Vehan%20Rajintha&color=purple&style=plastic)
+
 from here you can get the google form qize made from the past question papers of OOC, EAP, ISDM, NF, EM modules from below, you can get an expirience like the real exam and this is the only purpose.
 
 And please let me know if there are any problems in the answers of these papers.
