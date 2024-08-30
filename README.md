@@ -205,7 +205,7 @@ Pastpaper 02
     </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://forms.google.com" style="display: inline-block; margin-left: 50%; transform: translateX(-50%);">
-        <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/2290851_download_document_download%20pdf_pdf_icon.png?alt=media&token=67b3ffa0-48b2-42f7-b7fd-a4f796b6e375" alt="Get it on Googleforms" height="60">
+        <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/2290851_download_document_download%20pdf_pdf_icon.png?alt=media&token=67b3ffa0-48b2-42f7-b7fd-a4f796b6e375" alt="Get it on Googleforms" height="80">
     </a>
 </p>
 
