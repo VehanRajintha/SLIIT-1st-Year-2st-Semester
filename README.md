@@ -199,6 +199,14 @@ Pastpaper 02
 
 
 
+<p align="center">
+    <a href="https://forms.google.com">
+        <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/button_soon.png?alt=media&token=fb0b809b-2cf5-4afd-be92-85cc75ce9d11" alt="Get it on Googleforms" height="60">
+    </a>
+    <a href="https://forms.google.com">
+        <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/button_soon.png?alt=media&token=fb0b809b-2cf5-4afd-be92-85cc75ce9d11" alt="Get it on Googleforms" height="60">
+    </a>
+</p>
 
 
 
