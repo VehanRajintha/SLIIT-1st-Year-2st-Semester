@@ -57,16 +57,16 @@ Pastpaper 02
 
 
 
-# EAP
+# ISDM
 **MID EXAM**
 
-**Module code - IT1080 (English for Academic Purposes)**
+**Module code - IT1090 (Information Systems and Data Modelling)**
 
 Pastpaper 01
 
-[<img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/button_soon.png?alt=media&token=fb0b809b-2cf5-4afd-be92-85cc75ce9d11"
+[<img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/button_take-exam.png?alt=media&token=43a75680-9dd4-4772-8deb-4741d5491193"
     alt="Get it on Googleforms"
-    height="60">](https://forms.google.com)
+    height="60">](https://forms.gle/9HYqGvu6GfDDxQNF6)
 
 
 Pastpaper 02
@@ -91,10 +91,10 @@ Pastpaper 02
     height="60">](https://forms.google.com)
 
 
-# ISDM
+# EAP
 **MID EXAM**
 
-**Module code - IT1090 (Information Systems and Data Modelling)**
+**Module code - IT1080 (English for Academic Purposes)**
 
 Pastpaper 01
 
