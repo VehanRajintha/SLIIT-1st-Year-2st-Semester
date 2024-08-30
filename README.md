@@ -201,7 +201,7 @@ Pastpaper 02
 
 <p>
     <a href="https://forms.google.com" style="float: left;">
-        <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/button_soon.png?alt=media&token=fb0b809b-2cf5-4afd-be92-85cc75ce9d11" alt="Get it on Googleforms" height="60">
+        <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/button_take-exam.png?alt=media&token=43a75680-9dd4-4772-8deb-4741d5491193" alt="Get it on Googleforms" height="60">
     </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://forms.google.com" style="display: inline-block; margin-left: 50%; transform: translateX(-50%);">
