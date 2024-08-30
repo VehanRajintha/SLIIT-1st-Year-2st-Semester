@@ -29,7 +29,7 @@ Pastpaper 01
 
 [<img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/button_take-exam.png?alt=media&token=43a75680-9dd4-4772-8deb-4741d5491193"
     alt="Get it on Googleforms"
-    height="60">](https://forms.gle/7nya1Qs3gVqnJ7hf8)
+    height="60">]()
     
 
 
@@ -200,7 +200,7 @@ Pastpaper 02
 
 
 <p>
-    <a href="https://forms.google.com" style="float: left;">
+    <a href="https://forms.gle/7nya1Qs3gVqnJ7hf8" style="float: left;">
         <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/button_take-exam.png?alt=media&token=43a75680-9dd4-4772-8deb-4741d5491193" alt="Get it on Googleforms" height="60">
     </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
