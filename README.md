@@ -200,7 +200,7 @@ Model Paper 01 (Normal)
         <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/button_take-exam.png?alt=media&token=43a75680-9dd4-4772-8deb-4741d5491193" alt="Get it on Googleforms" height="60">
     </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://drive.usercontent.google.com/u/0/uc?id=1Ur9KqXSBsUQso1wB4FpM2TcJrvgz16OK&export=download" style="display: inline-block; margin-left: 50%; transform: translateX(-50%);">
+    <a href=" " style="display: inline-block; margin-left: 50%; transform: translateX(-50%);">
         <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/2290851_download_document_download%20pdf_pdf_icon.png?alt=media&token=67b3ffa0-48b2-42f7-b7fd-a4f796b6e375" alt="Get it on Googleforms" height="70">
     </a>
 </p>
@@ -212,7 +212,7 @@ Model Paper 02 (Hard)(10 Challenge Questions)
         <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/button_take-exam.png?alt=media&token=43a75680-9dd4-4772-8deb-4741d5491193" alt="Get it on Googleforms" height="60">
     </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://drive.usercontent.google.com/u/0/uc?id=1Ur9KqXSBsUQso1wB4FpM2TcJrvgz16OK&export=download" style="display: inline-block; margin-left: 50%; transform: translateX(-50%);">
+    <a href=" " style="display: inline-block; margin-left: 50%; transform: translateX(-50%);">
         <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/2290851_download_document_download%20pdf_pdf_icon.png?alt=media&token=67b3ffa0-48b2-42f7-b7fd-a4f796b6e375" alt="Get it on Googleforms" height="70">
     </a>
 </p>
@@ -220,11 +220,11 @@ Model Paper 02 (Hard)(10 Challenge Questions)
 Model Paper 03 (Extreme Hard)(10 Challenge Questions)
 
 <p>
-    <a href="https://forms.gle/56qjkkBeuB6UXWzs9" style="float: left;">
+    <a href="https://forms.gle/EZi2QUTUgXwJ2r968" style="float: left;">
         <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/button_take-exam.png?alt=media&token=43a75680-9dd4-4772-8deb-4741d5491193" alt="Get it on Googleforms" height="60">
     </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://drive.usercontent.google.com/u/0/uc?id=1Ur9KqXSBsUQso1wB4FpM2TcJrvgz16OK&export=download" style="display: inline-block; margin-left: 50%; transform: translateX(-50%);">
+    <a href=" " style="display: inline-block; margin-left: 50%; transform: translateX(-50%);">
         <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/2290851_download_document_download%20pdf_pdf_icon.png?alt=media&token=67b3ffa0-48b2-42f7-b7fd-a4f796b6e375" alt="Get it on Googleforms" height="70">
     </a>
 </p>
