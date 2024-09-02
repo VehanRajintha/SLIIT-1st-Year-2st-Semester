@@ -205,10 +205,10 @@ Model Paper 01 (Normal)
     </a>
 </p>
 
-Model Paper 02 (Hard)
+Model Paper 02 (Hard)(10 Challenge Questions)
 
 <p>
-    <a href="https://forms.gle/56qjkkBeuB6UXWzs9" style="float: left;">
+    <a href="https://forms.gle/PP8zANd4ckKvc96s6" style="float: left;">
         <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/button_take-exam.png?alt=media&token=43a75680-9dd4-4772-8deb-4741d5491193" alt="Get it on Googleforms" height="60">
     </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -217,7 +217,7 @@ Model Paper 02 (Hard)
     </a>
 </p>
 
-Model Paper 03 (Extreme Hard)
+Model Paper 03 (Extreme Hard)(10 Challenge Questions)
 
 <p>
     <a href="https://forms.gle/56qjkkBeuB6UXWzs9" style="float: left;">
