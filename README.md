@@ -79,7 +79,7 @@ Pastpaper 02
 Pastpaper 01
 
 <p>
-    <a href="https://forms.gle/9HYqGvu6GfDDxQNF6" style="float: left;">
+    <a href="https://forms.gle/JNs32Gyxm5YFeakz8" style="float: left;">
         <img src="https://firebasestorage.googleapis.com/v0/b/vehan-5008a.appspot.com/o/button_take-exam.png?alt=media&token=43a75680-9dd4-4772-8deb-4741d5491193" alt="Get it on Googleforms" height="60">
     </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
